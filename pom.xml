@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>wallmart test repo</name>
-	      <url>http://65.1.64.222:8081/repository/wallmart-repo/</url>
+	      <url>http://3.108.41.182:8081/repository/wallmart-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>wallmart snap test</name>
-	      <url>http://65.1.64.222:8081/repository/wallmart-snap/</url>
+	      <name>wallmart test snap</name>
+	      <url>http://3.108.41.182:8081/repository/wallmart-snap//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
