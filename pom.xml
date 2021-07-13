@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.232.212.58:9000/</sonar.host.url>
+		<sonar.host.url>http://13.233.184.240:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>  
               
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>wallmart test repo</name>
-	      <url>http://15.206.84.111:8081/repository/malli-ramesh-repo/</url>
+	      <url>http://65.0.109.165:8081/repository/malli-ramesh-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>wallmart test snap</name>
-	      <url>http://15.206.84.111:8081/repository/malli-ramesh-snap/</url>
+	      <url>http://65.0.109.165:8081/repository/malli-ramesh-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
